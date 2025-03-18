@@ -1,5 +1,5 @@
 # Pixel Adventure
-![image](https://github.com/user-attachments/assets/9d7c1032-a3b5-4b28-9fab-bd5124f0a559)
+![image](https://github.com/user-attachments/assets/a5f63d46-d13e-4ce1-8ba5-8d14675f8de7)
 <br><br/>
 
 ## 프로젝트 개요
@@ -49,7 +49,7 @@ https://velog.io/@lmg0052/series/Unity2D-Pixel-Adventure
 ![image](https://github.com/user-attachments/assets/4164533c-8662-4765-8b97-32eb701e4292)
 <br><br/>
 
-- **게임 플레이 영상 링크**: 
+- **게임 플레이 영상 링크**: https://youtu.be/lSSTUG1LwrQ
 <br><br/>
 
 ## 연락처
