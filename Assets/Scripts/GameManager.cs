@@ -93,4 +93,10 @@ public class GameManager : MonoBehaviour
         PlayerPrefs.DeleteAll();
         SceneManager.LoadScene("Scenes/Stage1");
     }
+
+    public void Menu()
+    {
+        PlayerPrefs.DeleteAll();
+        SceneManager.LoadScene("Scenes/Menu");
+    }
 }
